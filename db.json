@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Post One",
+      "body": "This is the post body",
+      "puslishedAt": "20-02-2020"
+    },
+    {
+      "id": "2",
+      "title": "Post Two",
+      "body": "This is the post body",
+      "puslishedAt": "20-02-2020"
+    },
+    {
+      "id": "3",
+      "title": "Post Three",
+      "body": "This is the post body",
+      "puslishedAt": "20-02-2020"
+    },
+    {
+      "title": "Post Four",
+      "body": "This is the post body",
+      "puslishedAt": "20-02-2020",
+      "id": "mHmwtr3"
+    },
+    {
+      "title": "Post Five",
+      "body": "This a body for post ",
+      "publishedAt": "1997-02-06",
+      "id": "6HWLwJQ"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Huy",
+      "email": "huy@gmail.com"
+    },
+    {
+      "name": "Jackiee",
+      "email": "jackie@gmail.com",
+      "id": "75eGtrG"
+    }
+  ]
+}

@@ -1,0 +1,802 @@
+{
+    "repo": {
+        "stargazers_count": 392,
+        "forks_count": 252
+    },
+    "weekly_add_del": [
+        {
+            "additions": 200582,
+            "deletions": -695
+        },
+        {
+            "additions": 6609,
+            "deletions": -3848
+        },
+        {
+            "additions": 6860,
+            "deletions": -5655
+        },
+        {
+            "additions": 14779,
+            "deletions": -4659
+        },
+        {
+            "additions": 11983,
+            "deletions": -8132
+        },
+        {
+            "additions": 46895,
+            "deletions": -4611
+        },
+        {
+            "additions": 3843,
+            "deletions": -1780
+        },
+        {
+            "additions": 13140,
+            "deletions": -12631
+        },
+        {
+            "additions": 10078,
+            "deletions": -8250
+        },
+        {
+            "additions": 5411,
+            "deletions": -1757
+        },
+        {
+            "additions": 12631,
+            "deletions": -8784
+        },
+        {
+            "additions": 10616,
+            "deletions": -2679
+        },
+        {
+            "additions": 11250,
+            "deletions": -8147
+        },
+        {
+            "additions": 5842,
+            "deletions": -4960
+        },
+        {
+            "additions": 13350,
+            "deletions": -11262
+        },
+        {
+            "additions": 11216,
+            "deletions": -6603
+        },
+        {
+            "additions": 12490,
+            "deletions": -8426
+        },
+        {
+            "additions": 12803,
+            "deletions": -8475
+        },
+        {
+            "additions": 6313,
+            "deletions": -7807
+        },
+        {
+            "additions": 15324,
+            "deletions": -5385
+        },
+        {
+            "additions": 7129,
+            "deletions": -2479
+        },
+        {
+            "additions": 18764,
+            "deletions": -12659
+        },
+        {
+            "additions": 6403,
+            "deletions": -3718
+        },
+        {
+            "additions": 5513,
+            "deletions": -2782
+        },
+        {
+            "additions": 4391,
+            "deletions": -1933
+        },
+        {
+            "additions": 84183,
+            "deletions": -3189
+        },
+        {
+            "additions": 2966,
+            "deletions": -2331
+        },
+        {
+            "additions": 12041,
+            "deletions": -11789
+        },
+        {
+            "additions": 15128,
+            "deletions": -7115
+        },
+        {
+            "additions": 19578,
+            "deletions": -2373
+        },
+        {
+            "additions": 28074,
+            "deletions": -4973
+        },
+        {
+            "additions": 24875,
+            "deletions": -14307
+        },
+        {
+            "additions": 17661,
+            "deletions": -7876
+        },
+        {
+            "additions": 15733,
+            "deletions": -4596
+        },
+        {
+            "additions": 23305,
+            "deletions": -7067
+        },
+        {
+            "additions": 9813,
+            "deletions": -1165
+        },
+        {
+            "additions": 4764,
+            "deletions": -13946
+        },
+        {
+            "additions": 12160,
+            "deletions": -8074
+        },
+        {
+            "additions": 7220,
+            "deletions": -9870
+        },
+        {
+            "additions": 25589,
+            "deletions": -16255
+        },
+        {
+            "additions": 18849,
+            "deletions": -16863
+        },
+        {
+            "additions": 18506,
+            "deletions": -12130
+        },
+        {
+            "additions": 13982,
+            "deletions": -5150
+        },
+        {
+            "additions": 12304,
+            "deletions": -17147
+        },
+        {
+            "additions": 82279,
+            "deletions": -75562
+        },
+        {
+            "additions": 19567,
+            "deletions": -15347
+        },
+        {
+            "additions": 22712,
+            "deletions": -36498
+        },
+        {
+            "additions": 13468,
+            "deletions": -11351
+        },
+        {
+            "additions": 52575,
+            "deletions": -50246
+        },
+        {
+            "additions": 36581,
+            "deletions": -31650
+        },
+        {
+            "additions": 7738,
+            "deletions": -5803
+        },
+        {
+            "additions": 4600,
+            "deletions": -2584
+        },
+        {
+            "additions": 123254,
+            "deletions": -1399
+        },
+        {
+            "additions": 13223,
+            "deletions": -126495
+        },
+        {
+            "additions": 58432,
+            "deletions": -56545
+        },
+        {
+            "additions": 20501,
+            "deletions": -16604
+        },
+        {
+            "additions": 40851,
+            "deletions": -31140
+        },
+        {
+            "additions": 3427,
+            "deletions": -808
+        },
+        {
+            "additions": 6405,
+            "deletions": -3039
+        },
+        {
+            "additions": 11170,
+            "deletions": -7452
+        },
+        {
+            "additions": 817,
+            "deletions": -257
+        },
+        {
+            "additions": 4461,
+            "deletions": -4009
+        },
+        {
+            "additions": 4679,
+            "deletions": -3577
+        },
+        {
+            "additions": 11804,
+            "deletions": -12449
+        },
+        {
+            "additions": 4115,
+            "deletions": -2184
+        },
+        {
+            "additions": 4112,
+            "deletions": -7382
+        },
+        {
+            "additions": 4934,
+            "deletions": -992
+        },
+        {
+            "additions": 12373,
+            "deletions": -3078
+        },
+        {
+            "additions": 12190,
+            "deletions": -6606
+        },
+        {
+            "additions": 36570,
+            "deletions": -8269
+        },
+        {
+            "additions": 3704,
+            "deletions": -1671
+        },
+        {
+            "additions": 1761,
+            "deletions": -1232
+        },
+        {
+            "additions": 34686,
+            "deletions": -27779
+        },
+        {
+            "additions": 68366,
+            "deletions": -2098
+        },
+        {
+            "additions": 37250,
+            "deletions": -79408
+        },
+        {
+            "additions": 3738,
+            "deletions": -2153
+        },
+        {
+            "additions": 4,
+            "deletions": 0
+        },
+        {
+            "additions": 4731,
+            "deletions": -3368
+        },
+        {
+            "additions": 2281,
+            "deletions": -165545
+        },
+        {
+            "additions": 138636,
+            "deletions": -149858
+        },
+        {
+            "additions": 5698,
+            "deletions": -3880
+        },
+        {
+            "additions": 1406,
+            "deletions": -481
+        },
+        {
+            "additions": 1922,
+            "deletions": -1406
+        },
+        {
+            "additions": 993,
+            "deletions": -3598
+        },
+        {
+            "additions": 1724,
+            "deletions": -221989
+        },
+        {
+            "additions": 10894,
+            "deletions": -5958
+        },
+        {
+            "additions": 910,
+            "deletions": -396
+        },
+        {
+            "additions": 2387,
+            "deletions": -1387
+        },
+        {
+            "additions": 2988,
+            "deletions": -1367
+        },
+        {
+            "additions": 2299,
+            "deletions": -716
+        },
+        {
+            "additions": 1370,
+            "deletions": -492
+        },
+        {
+            "additions": 436,
+            "deletions": -83
+        },
+        {
+            "additions": 1669,
+            "deletions": -1014
+        },
+        {
+            "additions": 633,
+            "deletions": -337
+        },
+        {
+            "additions": 1583,
+            "deletions": -292
+        },
+        {
+            "additions": 3558,
+            "deletions": -1372
+        },
+        {
+            "additions": 632,
+            "deletions": -66
+        },
+        {
+            "additions": 75,
+            "deletions": -78
+        },
+        {
+            "additions": 579,
+            "deletions": -368
+        },
+        {
+            "additions": 1537,
+            "deletions": -206
+        },
+        {
+            "additions": 1545,
+            "deletions": -725
+        },
+        {
+            "additions": 214,
+            "deletions": -86
+        },
+        {
+            "additions": 687,
+            "deletions": -31
+        },
+        {
+            "additions": 4907,
+            "deletions": -826
+        },
+        {
+            "additions": 1584,
+            "deletions": -344
+        },
+        {
+            "additions": 510,
+            "deletions": -133
+        },
+        {
+            "additions": 1931,
+            "deletions": -1812
+        },
+        {
+            "additions": 1202,
+            "deletions": -309
+        },
+        {
+            "additions": 55,
+            "deletions": -10
+        },
+        {
+            "additions": 702,
+            "deletions": -136
+        },
+        {
+            "additions": 81787,
+            "deletions": -56384
+        },
+        {
+            "additions": 56553,
+            "deletions": -80454
+        },
+        {
+            "additions": 1198,
+            "deletions": -456
+        },
+        {
+            "additions": 9234,
+            "deletions": -132
+        },
+        {
+            "additions": 32618,
+            "deletions": -115
+        },
+        {
+            "additions": 1880,
+            "deletions": -59725
+        },
+        {
+            "additions": 66,
+            "deletions": -47
+        },
+        {
+            "additions": 2190,
+            "deletions": -8399
+        },
+        {
+            "additions": 15700,
+            "deletions": -1416
+        },
+        {
+            "additions": 1033,
+            "deletions": -107
+        },
+        {
+            "additions": 618,
+            "deletions": -182
+        }
+    ],
+    "weekly_commits": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        67,
+        21,
+        29,
+        47,
+        68,
+        21,
+        12,
+        39,
+        31,
+        24,
+        34,
+        41,
+        25,
+        19,
+        30,
+        23,
+        48,
+        51,
+        40,
+        39,
+        78,
+        35,
+        12,
+        7,
+        20,
+        24,
+        21,
+        29,
+        14,
+        22,
+        24,
+        87,
+        23,
+        17,
+        12,
+        35,
+        30,
+        49,
+        37,
+        68,
+        56,
+        36,
+        36,
+        27,
+        20,
+        23,
+        32,
+        41,
+        27,
+        42,
+        31,
+        19,
+        21,
+        24,
+        36,
+        26,
+        25,
+        18,
+        43,
+        20,
+        26,
+        15,
+        21,
+        10,
+        13,
+        28,
+        27,
+        51,
+        57,
+        31,
+        12,
+        9,
+        6,
+        23,
+        22,
+        1,
+        13,
+        32,
+        30,
+        26,
+        17,
+        22,
+        20,
+        14,
+        24,
+        15,
+        9,
+        16,
+        16,
+        15,
+        13,
+        12,
+        13,
+        16,
+        12,
+        7,
+        9,
+        11,
+        11,
+        12,
+        8,
+        6,
+        12,
+        10,
+        9,
+        7,
+        9,
+        5,
+        5,
+        6,
+        4,
+        12,
+        7,
+        2,
+        1,
+        5,
+        5,
+        16,
+        8,
+        6
+    ],
+    "contributors": [
+        "jasonrudianto1",
+        "mattharrop",
+        "nvtaveras",
+        "H34D",
+        "silasbw",
+        "kphed",
+        "bohan-zhang",
+        "prasincs",
+        "gastonponti",
+        "marekolszewski",
+        "nityas",
+        "keefertaylor",
+        "piersy",
+        "yourbuddyconner",
+        "obasilakis",
+        "joenyzio",
+        "obernardovieira",
+        "pranaymohan",
+        "zviadm",
+        "jcortejoso",
+        "ityuhui",
+        "michellewong793",
+        "sallyjyl",
+        "joigno",
+        "aslawson",
+        "timmoreton",
+        "mrsmkl",
+        "Pedro-vk",
+        "ErinHales",
+        "trianglesphere",
+        "nategraf",
+        "albertclabs",
+        "yorhodes",
+        "alecps",
+        "bricewang",
+        "bowd",
+        "emilhotkowski",
+        "jeamick",
+        "girishnuli",
+        "tarikbellamine",
+        "drklee3",
+        "aaitor",
+        "deepakhb2",
+        "rkachowski",
+        "codyborn",
+        "jeanregisser",
+        "dominiquejane",
+        "cajubelt",
+        "alchemydc",
+        "kevjue",
+        "hbandura",
+        "ashishb",
+        "jmrossy",
+        "mcortesi",
+        "AlexBHarley",
+        "kobigurk",
+        "martinvol",
+        "snyk-bot",
+        "bgeihsgt",
+        "aaronmgdr",
+        "critesjosh",
+        "etuleu",
+        "eelanagaraj",
+        "alex-m24",
+        "celo-ci-bot-user",
+        "isabellewei",
+        "cmcewen",
+        "ewilz",
+        "pedro-clabs",
+        "medhakothari",
+        "y3v63n",
+        "bcamacho",
+        "m-chrzan",
+        "tkporter",
+        "cla-bel",
+        "annakaz",
+        "tobikuhlmann",
+        "barbaraliau",
+        "jfoutts-celo",
+        "dadaphl",
+        "i1skn",
+        "dckesler",
+        "rcroessmann",
+        "gnardini",
+        "diminator",
+        "carterqw2",
+        "YazzyYaz",
+        "lucasege",
+        "asaj",
+        "hqueue",
+        "rohit-dua",
+        "KoenBal",
+        "reachjason",
+        "shellygr",
+        "eruizgar91",
+        "nambrot",
+        "lvpeschke",
+        "yerdua",
+        "gbunea"
+    ]
+}
